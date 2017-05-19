@@ -1,0 +1,1 @@
+https://docs.datastax.com/en/cassandra/3.0/cassandra/install/installRHEL.html
